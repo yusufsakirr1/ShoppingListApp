@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="yeni_liste">+ YENI LISTE</string>
+    <string name="intro_Baslik">Alışveriş Listeniz, Artık Daha Kolay!</string>
+    <string name="intro_altbaslik1">İhtiyacınız olan her şeyi tek bir dokunuşla takip edin</string>
+    <string name="intro_altbaslik2">Zaman kazanın, unutmayın!</string>
+    <string name="r_n_ekle">Ürün ekle</string>
+    <string name="urun_ekle">URUN EKLE</string>
+</resources>
